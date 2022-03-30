@@ -68,7 +68,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/MR-INVISIBLEBOT/GANTA MERA NIKAL LOWDE.git`
+`git clone https://github.com/kaj79730al/GANTA MERA NIKAL LOWDE.git`
 - Open Cloned Folder.
 
 `cd LEGENDBOT NEW`
